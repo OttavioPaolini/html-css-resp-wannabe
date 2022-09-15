@@ -9,8 +9,14 @@
        flex-direction: column;
        align-items: center;
     }
-    .col{
+    .lessons .col{
         width: 100%;
     }
-    
+    .steps .col{
+        width: 100%;
+    }
+    .why-us .col-left .col-right{
+        width: 100%;
+    }
+
 }
